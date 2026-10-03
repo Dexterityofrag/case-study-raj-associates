@@ -51,7 +51,9 @@ They are anxious, often ashamed, in a hurry, and quietly worried about two thing
 
 Every decision on the site follows from those two questions. The hero line says it plainly: *Understand where you stand, before you decide what to do.*
 
-![Home page on mobile: headline, short reassurance, call and WhatsApp bar at the thumb](images/home-mobile.jpg)
+![Home page on mobile: headline, short reassurance, call and WhatsApp bar at the thumb](images/phones-1.jpg)
+
+Home page on mobile: headline, short reassurance, call and WhatsApp bar at the thumb
 
 ## Colour, and what it does
 
@@ -73,7 +75,11 @@ Every decision on the site follows from those two questions. The hero line says 
 
 ![Practice area page: plain-language intro, what the firm handles, what to bring](images/02-raj-associates-practice.jpg)
 
+Practice area page: plain-language intro, what the firm handles, what to bring
+
 ![Criminal matters practice page on desktop](images/practice-page.jpg)
+
+Criminal matters practice page on desktop
 
 ## Getting the details right on a phone
 
